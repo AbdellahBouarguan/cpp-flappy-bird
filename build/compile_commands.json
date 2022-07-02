@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/abdo/Desktop/Cpp/projects/flappyBird/build",
-  "command": "/usr/bin/clang++ -O3 -DNDEBUG -o CMakeFiles/flappybird.dir/main.cpp.o -c /home/abdo/Desktop/Cpp/projects/flappyBird/main.cpp",
-  "file": "/home/abdo/Desktop/Cpp/projects/flappyBird/main.cpp"
-}
-]
